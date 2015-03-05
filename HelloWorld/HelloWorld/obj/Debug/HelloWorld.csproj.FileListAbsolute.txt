@@ -1,0 +1,5 @@
+E:\mywork\MyStudyC-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\mywork\MyStudyC-\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\mywork\MyStudyC-\HelloWorld\HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+E:\mywork\MyStudyC-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\mywork\MyStudyC-\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
