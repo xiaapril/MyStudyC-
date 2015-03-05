@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\predefineTypes\predefineTypes\bin\Debug\predefineTypes.exe
+E:\mywork\MyStudyC-\predefineTypes\predefineTypes\bin\Debug\predefineTypes.pdb
+E:\mywork\MyStudyC-\predefineTypes\predefineTypes\obj\x86\Debug\predefineTypes.exe
+E:\mywork\MyStudyC-\predefineTypes\predefineTypes\obj\x86\Debug\predefineTypes.pdb
