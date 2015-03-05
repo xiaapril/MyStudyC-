@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\typeTran\typeTran\bin\Debug\typeTran.exe
+E:\mywork\MyStudyC-\typeTran\typeTran\bin\Debug\typeTran.pdb
+E:\mywork\MyStudyC-\typeTran\typeTran\obj\x86\Debug\typeTran.exe
+E:\mywork\MyStudyC-\typeTran\typeTran\obj\x86\Debug\typeTran.pdb
