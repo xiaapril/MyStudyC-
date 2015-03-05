@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\listArg0\listArg0\bin\Debug\listArg0.exe
+E:\mywork\MyStudyC-\listArg0\listArg0\bin\Debug\listArg0.pdb
+E:\mywork\MyStudyC-\listArg0\listArg0\obj\x86\Debug\listArg0.exe
+E:\mywork\MyStudyC-\listArg0\listArg0\obj\x86\Debug\listArg0.pdb
