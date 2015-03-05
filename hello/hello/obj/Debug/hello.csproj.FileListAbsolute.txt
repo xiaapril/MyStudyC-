@@ -1,0 +1,5 @@
+E:\mywork\MyStudyC-\hello\hello\bin\Debug\hello.exe
+E:\mywork\MyStudyC-\hello\hello\bin\Debug\hello.pdb
+E:\mywork\MyStudyC-\hello\hello\obj\Debug\ResolveAssemblyReference.cache
+E:\mywork\MyStudyC-\hello\hello\obj\Debug\hello.exe
+E:\mywork\MyStudyC-\hello\hello\obj\Debug\hello.pdb
