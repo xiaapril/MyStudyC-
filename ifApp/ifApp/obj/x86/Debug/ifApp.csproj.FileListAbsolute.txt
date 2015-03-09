@@ -1,0 +1,5 @@
+E:\mywork\MyStudyC-\ifApp\ifApp\bin\Debug\ifApp.exe
+E:\mywork\MyStudyC-\ifApp\ifApp\bin\Debug\ifApp.pdb
+E:\mywork\MyStudyC-\ifApp\ifApp\obj\x86\Debug\ifApp.csprojResolveAssemblyReference.cache
+E:\mywork\MyStudyC-\ifApp\ifApp\obj\x86\Debug\ifApp.exe
+E:\mywork\MyStudyC-\ifApp\ifApp\obj\x86\Debug\ifApp.pdb
