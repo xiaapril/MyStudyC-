@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\foreachApp\foreachApp\bin\Debug\foreachApp.exe
+E:\mywork\MyStudyC-\foreachApp\foreachApp\bin\Debug\foreachApp.pdb
+E:\mywork\MyStudyC-\foreachApp\foreachApp\obj\x86\Debug\foreachApp.exe
+E:\mywork\MyStudyC-\foreachApp\foreachApp\obj\x86\Debug\foreachApp.pdb
