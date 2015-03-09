@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\whileApp\whileApp\bin\Debug\whileApp.exe
+E:\mywork\MyStudyC-\whileApp\whileApp\bin\Debug\whileApp.pdb
+E:\mywork\MyStudyC-\whileApp\whileApp\obj\x86\Debug\whileApp.exe
+E:\mywork\MyStudyC-\whileApp\whileApp\obj\x86\Debug\whileApp.pdb
