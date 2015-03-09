@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\switchApp\switchApp\bin\Debug\switchApp.exe
+E:\mywork\MyStudyC-\switchApp\switchApp\bin\Debug\switchApp.pdb
+E:\mywork\MyStudyC-\switchApp\switchApp\obj\x86\Debug\switchApp.exe
+E:\mywork\MyStudyC-\switchApp\switchApp\obj\x86\Debug\switchApp.pdb
