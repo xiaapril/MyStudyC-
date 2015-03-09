@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\doWhileApp\doWhileApp\bin\Debug\doWhileApp.exe
+E:\mywork\MyStudyC-\doWhileApp\doWhileApp\bin\Debug\doWhileApp.pdb
+E:\mywork\MyStudyC-\doWhileApp\doWhileApp\obj\x86\Debug\doWhileApp.exe
+E:\mywork\MyStudyC-\doWhileApp\doWhileApp\obj\x86\Debug\doWhileApp.pdb
