@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\jaggeArray\jaggeArray\bin\Debug\jaggeArray.exe
+E:\mywork\MyStudyC-\jaggeArray\jaggeArray\bin\Debug\jaggeArray.pdb
+E:\mywork\MyStudyC-\jaggeArray\jaggeArray\obj\x86\Debug\jaggeArray.exe
+E:\mywork\MyStudyC-\jaggeArray\jaggeArray\obj\x86\Debug\jaggeArray.pdb
