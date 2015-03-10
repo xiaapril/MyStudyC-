@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\matrixMultiply\matrixMultiply\bin\Debug\matrixMultiply.exe
+E:\mywork\MyStudyC-\matrixMultiply\matrixMultiply\bin\Debug\matrixMultiply.pdb
+E:\mywork\MyStudyC-\matrixMultiply\matrixMultiply\obj\x86\Debug\matrixMultiply.exe
+E:\mywork\MyStudyC-\matrixMultiply\matrixMultiply\obj\x86\Debug\matrixMultiply.pdb
