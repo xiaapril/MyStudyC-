@@ -1,0 +1,5 @@
+E:\mywork\MyStudyC-\enumApp\enumApp\bin\Debug\enumApp.exe
+E:\mywork\MyStudyC-\enumApp\enumApp\bin\Debug\enumApp.pdb
+E:\mywork\MyStudyC-\enumApp\enumApp\obj\x86\Debug\enumApp.csprojResolveAssemblyReference.cache
+E:\mywork\MyStudyC-\enumApp\enumApp\obj\x86\Debug\enumApp.exe
+E:\mywork\MyStudyC-\enumApp\enumApp\obj\x86\Debug\enumApp.pdb
