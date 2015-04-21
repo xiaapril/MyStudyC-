@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\bitOpt\bitOpt\bin\Debug\bitOpt.exe
+E:\mywork\MyStudyC-\bitOpt\bitOpt\bin\Debug\bitOpt.pdb
+E:\mywork\MyStudyC-\bitOpt\bitOpt\obj\x86\Debug\bitOpt.exe
+E:\mywork\MyStudyC-\bitOpt\bitOpt\obj\x86\Debug\bitOpt.pdb
