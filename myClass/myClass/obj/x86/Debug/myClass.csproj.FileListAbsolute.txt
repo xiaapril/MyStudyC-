@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\myClass\myClass\bin\Debug\myClass.exe
+E:\mywork\MyStudyC-\myClass\myClass\bin\Debug\myClass.pdb
+E:\mywork\MyStudyC-\myClass\myClass\obj\x86\Debug\myClass.exe
+E:\mywork\MyStudyC-\myClass\myClass\obj\x86\Debug\myClass.pdb
