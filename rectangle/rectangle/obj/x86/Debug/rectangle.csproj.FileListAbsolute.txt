@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\rectangle\rectangle\bin\Debug\rectangle.exe
+E:\mywork\MyStudyC-\rectangle\rectangle\bin\Debug\rectangle.pdb
+E:\mywork\MyStudyC-\rectangle\rectangle\obj\x86\Debug\rectangle.exe
+E:\mywork\MyStudyC-\rectangle\rectangle\obj\x86\Debug\rectangle.pdb
