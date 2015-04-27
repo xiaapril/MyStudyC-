@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\area\area\bin\Debug\area.exe
+E:\mywork\MyStudyC-\area\area\bin\Debug\area.pdb
+E:\mywork\MyStudyC-\area\area\obj\x86\Debug\area.exe
+E:\mywork\MyStudyC-\area\area\obj\x86\Debug\area.pdb
