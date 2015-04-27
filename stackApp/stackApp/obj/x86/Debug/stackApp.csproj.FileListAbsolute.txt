@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\stackApp\stackApp\bin\Debug\stackApp.exe
+E:\mywork\MyStudyC-\stackApp\stackApp\bin\Debug\stackApp.pdb
+E:\mywork\MyStudyC-\stackApp\stackApp\obj\x86\Debug\stackApp.exe
+E:\mywork\MyStudyC-\stackApp\stackApp\obj\x86\Debug\stackApp.pdb
