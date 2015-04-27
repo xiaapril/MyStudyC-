@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\bin\Debug\myFirstWinApp.exe
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\bin\Debug\myFirstWinApp.pdb
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\obj\x86\Debug\myFirstWinApp.Form1.resources
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\obj\x86\Debug\myFirstWinApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\obj\x86\Debug\myFirstWinApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\obj\x86\Debug\myFirstWinApp.exe
+E:\mywork\MyStudyC-\myFirstWinApp\myFirstWinApp\obj\x86\Debug\myFirstWinApp.pdb
