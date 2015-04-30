@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\meauApp\meauApp\bin\Debug\meauApp.exe
+E:\mywork\MyStudyC-\meauApp\meauApp\bin\Debug\meauApp.pdb
+E:\mywork\MyStudyC-\meauApp\meauApp\obj\x86\Debug\meauApp.Form1.resources
+E:\mywork\MyStudyC-\meauApp\meauApp\obj\x86\Debug\meauApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\meauApp\meauApp\obj\x86\Debug\meauApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\meauApp\meauApp\obj\x86\Debug\meauApp.exe
+E:\mywork\MyStudyC-\meauApp\meauApp\obj\x86\Debug\meauApp.pdb
