@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\bin\Debug\toolbarApp.exe
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\bin\Debug\toolbarApp.pdb
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\obj\x86\Debug\toolbarApp.Form1.resources
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\obj\x86\Debug\toolbarApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\obj\x86\Debug\toolbarApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\obj\x86\Debug\toolbarApp.exe
+E:\mywork\MyStudyC-\toolbarApp\toolbarApp\obj\x86\Debug\toolbarApp.pdb
