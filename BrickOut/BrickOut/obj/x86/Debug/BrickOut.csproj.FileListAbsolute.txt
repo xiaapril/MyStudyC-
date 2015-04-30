@@ -1,0 +1,8 @@
+E:\mywork\MyStudyC-\BrickOut\BrickOut\obj\x86\Debug\BrickOut.Form1.resources
+E:\mywork\MyStudyC-\BrickOut\BrickOut\obj\x86\Debug\BrickOut.Properties.Resources.resources
+E:\mywork\MyStudyC-\BrickOut\BrickOut\obj\x86\Debug\BrickOut.SpeedDialog.resources
+E:\mywork\MyStudyC-\BrickOut\BrickOut\obj\x86\Debug\BrickOut.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\BrickOut\BrickOut\bin\Debug\BrickOut.exe
+E:\mywork\MyStudyC-\BrickOut\BrickOut\bin\Debug\BrickOut.pdb
+E:\mywork\MyStudyC-\BrickOut\BrickOut\obj\x86\Debug\BrickOut.exe
+E:\mywork\MyStudyC-\BrickOut\BrickOut\obj\x86\Debug\BrickOut.pdb

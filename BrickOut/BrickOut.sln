@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrickOut", "BrickOut\BrickOut.csproj", "{187D4DEA-9DF4-4077-8875-014112F824FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187D4DEA-9DF4-4077-8875-014112F824FE}.Debug|x86.ActiveCfg = Debug|x86
+		{187D4DEA-9DF4-4077-8875-014112F824FE}.Debug|x86.Build.0 = Debug|x86
+		{187D4DEA-9DF4-4077-8875-014112F824FE}.Release|x86.ActiveCfg = Release|x86
+		{187D4DEA-9DF4-4077-8875-014112F824FE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
