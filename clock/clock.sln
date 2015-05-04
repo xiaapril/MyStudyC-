@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clock", "clock\clock.csproj", "{52FE32B5-9912-4CCF-9CF5-07679B97C13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedTextBox", "MaskedTextBox\MaskedTextBox.csproj", "{C99E2C97-653B-4888-B4EC-3BD58A388E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52FE32B5-9912-4CCF-9CF5-07679B97C13B}.Debug|x86.ActiveCfg = Debug|x86
+		{52FE32B5-9912-4CCF-9CF5-07679B97C13B}.Debug|x86.Build.0 = Debug|x86
+		{52FE32B5-9912-4CCF-9CF5-07679B97C13B}.Release|x86.ActiveCfg = Release|x86
+		{52FE32B5-9912-4CCF-9CF5-07679B97C13B}.Release|x86.Build.0 = Release|x86
+		{C99E2C97-653B-4888-B4EC-3BD58A388E4A}.Debug|x86.ActiveCfg = Debug|x86
+		{C99E2C97-653B-4888-B4EC-3BD58A388E4A}.Debug|x86.Build.0 = Debug|x86
+		{C99E2C97-653B-4888-B4EC-3BD58A388E4A}.Release|x86.ActiveCfg = Release|x86
+		{C99E2C97-653B-4888-B4EC-3BD58A388E4A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
