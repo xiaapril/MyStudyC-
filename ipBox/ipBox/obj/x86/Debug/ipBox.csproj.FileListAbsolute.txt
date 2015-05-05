@@ -1,0 +1,6 @@
+E:\mywork\MyStudyC-\ipBox\ipBox\obj\x86\Debug\ipBox.Properties.Resources.resources
+E:\mywork\MyStudyC-\ipBox\ipBox\obj\x86\Debug\ipBox.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\ipBox\ipBox\bin\Debug\ipBox.dll
+E:\mywork\MyStudyC-\ipBox\ipBox\bin\Debug\ipBox.pdb
+E:\mywork\MyStudyC-\ipBox\ipBox\obj\x86\Debug\ipBox.dll
+E:\mywork\MyStudyC-\ipBox\ipBox\obj\x86\Debug\ipBox.pdb
