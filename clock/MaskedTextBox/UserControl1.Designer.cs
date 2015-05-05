@@ -32,15 +32,14 @@
             // 
             // MaskedTextBox
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(266, 132);
-            this.Name = "MaskedTextBox";
+            this.Size = new System.Drawing.Size(270, 21);
+            this.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.MaskedTextBox_KeyPress);
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
     }
 }
 
