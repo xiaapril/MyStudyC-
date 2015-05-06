@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "useIPBox", "useIPBox\useIPBox.csproj", "{A8923F09-4D0E-49C7-AB1D-0A7C1CAFE51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8923F09-4D0E-49C7-AB1D-0A7C1CAFE51C}.Debug|x86.ActiveCfg = Debug|x86
+		{A8923F09-4D0E-49C7-AB1D-0A7C1CAFE51C}.Debug|x86.Build.0 = Debug|x86
+		{A8923F09-4D0E-49C7-AB1D-0A7C1CAFE51C}.Release|x86.ActiveCfg = Release|x86
+		{A8923F09-4D0E-49C7-AB1D-0A7C1CAFE51C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

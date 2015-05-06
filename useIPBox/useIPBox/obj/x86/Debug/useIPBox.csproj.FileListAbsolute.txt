@@ -1,0 +1,9 @@
+E:\mywork\MyStudyC-\useIPBox\useIPBox\bin\Debug\useIPBox.exe
+E:\mywork\MyStudyC-\useIPBox\useIPBox\bin\Debug\useIPBox.pdb
+E:\mywork\MyStudyC-\useIPBox\useIPBox\bin\Debug\ipBox.dll
+E:\mywork\MyStudyC-\useIPBox\useIPBox\obj\x86\Debug\useIPBox.csprojResolveAssemblyReference.cache
+E:\mywork\MyStudyC-\useIPBox\useIPBox\obj\x86\Debug\useIPBox.Form1.resources
+E:\mywork\MyStudyC-\useIPBox\useIPBox\obj\x86\Debug\useIPBox.Properties.Resources.resources
+E:\mywork\MyStudyC-\useIPBox\useIPBox\obj\x86\Debug\useIPBox.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\useIPBox\useIPBox\obj\x86\Debug\useIPBox.exe
+E:\mywork\MyStudyC-\useIPBox\useIPBox\obj\x86\Debug\useIPBox.pdb
