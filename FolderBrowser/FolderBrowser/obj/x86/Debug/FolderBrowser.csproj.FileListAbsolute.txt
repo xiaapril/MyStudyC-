@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\bin\Debug\FolderBrowser.exe
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\bin\Debug\FolderBrowser.pdb
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\obj\x86\Debug\FolderBrowser.Form1.resources
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\obj\x86\Debug\FolderBrowser.Properties.Resources.resources
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\obj\x86\Debug\FolderBrowser.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\obj\x86\Debug\FolderBrowser.exe
+E:\mywork\MyStudyC-\FolderBrowser\FolderBrowser\obj\x86\Debug\FolderBrowser.pdb
