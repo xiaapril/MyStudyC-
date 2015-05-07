@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\progBarApp\progBarApp\bin\Debug\progBarApp.exe
+E:\mywork\MyStudyC-\progBarApp\progBarApp\bin\Debug\progBarApp.pdb
+E:\mywork\MyStudyC-\progBarApp\progBarApp\obj\x86\Debug\progBarApp.Form1.resources
+E:\mywork\MyStudyC-\progBarApp\progBarApp\obj\x86\Debug\progBarApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\progBarApp\progBarApp\obj\x86\Debug\progBarApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\progBarApp\progBarApp\obj\x86\Debug\progBarApp.exe
+E:\mywork\MyStudyC-\progBarApp\progBarApp\obj\x86\Debug\progBarApp.pdb
