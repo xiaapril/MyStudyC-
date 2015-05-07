@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\TrayApp\TrayApp\bin\Debug\TrayApp.exe
+E:\mywork\MyStudyC-\TrayApp\TrayApp\bin\Debug\TrayApp.pdb
+E:\mywork\MyStudyC-\TrayApp\TrayApp\obj\x86\Debug\TrayApp.Form1.resources
+E:\mywork\MyStudyC-\TrayApp\TrayApp\obj\x86\Debug\TrayApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\TrayApp\TrayApp\obj\x86\Debug\TrayApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\TrayApp\TrayApp\obj\x86\Debug\TrayApp.exe
+E:\mywork\MyStudyC-\TrayApp\TrayApp\obj\x86\Debug\TrayApp.pdb
