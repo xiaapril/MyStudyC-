@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\bin\Debug\TrayIconApp.exe
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\bin\Debug\TrayIconApp.pdb
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\obj\x86\Debug\TrayIconApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\obj\x86\Debug\TrayIconApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\obj\x86\Debug\TrayIconApp.exe
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\obj\x86\Debug\TrayIconApp.pdb
+E:\mywork\MyStudyC-\TrayIconApp\TrayIconApp\obj\x86\Debug\TrayIconApp.TrayIcon.resources
