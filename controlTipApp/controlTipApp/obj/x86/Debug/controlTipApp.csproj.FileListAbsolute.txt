@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\bin\Debug\controlTipApp.exe
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\bin\Debug\controlTipApp.pdb
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\obj\x86\Debug\controlTipApp.Form1.resources
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\obj\x86\Debug\controlTipApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\obj\x86\Debug\controlTipApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\obj\x86\Debug\controlTipApp.exe
+E:\mywork\MyStudyC-\controlTipApp\controlTipApp\obj\x86\Debug\controlTipApp.pdb
