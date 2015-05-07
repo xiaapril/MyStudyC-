@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\bin\Debug\noBorderApp.exe
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\bin\Debug\noBorderApp.pdb
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\obj\x86\Debug\noBorderApp.Form1.resources
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\obj\x86\Debug\noBorderApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\obj\x86\Debug\noBorderApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\obj\x86\Debug\noBorderApp.exe
+E:\mywork\MyStudyC-\noBorderApp\noBorderApp\obj\x86\Debug\noBorderApp.pdb
