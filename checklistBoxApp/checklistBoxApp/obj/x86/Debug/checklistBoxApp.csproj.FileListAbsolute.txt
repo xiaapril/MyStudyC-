@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\bin\Debug\checklistBoxApp.exe
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\bin\Debug\checklistBoxApp.pdb
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\obj\x86\Debug\checklistBoxApp.Form1.resources
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\obj\x86\Debug\checklistBoxApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\obj\x86\Debug\checklistBoxApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\obj\x86\Debug\checklistBoxApp.exe
+E:\mywork\MyStudyC-\checklistBoxApp\checklistBoxApp\obj\x86\Debug\checklistBoxApp.pdb
