@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\bin\Debug\MDIFormApp.exe
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\bin\Debug\MDIFormApp.pdb
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\obj\x86\Debug\MDIFormApp.Form1.resources
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\obj\x86\Debug\MDIFormApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\obj\x86\Debug\MDIFormApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\obj\x86\Debug\MDIFormApp.exe
+E:\mywork\MyStudyC-\MDIFormApp\MDIFormApp\obj\x86\Debug\MDIFormApp.pdb
