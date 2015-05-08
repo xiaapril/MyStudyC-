@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\floatingForm\floatingForm\bin\Debug\floatingForm.exe
+E:\mywork\MyStudyC-\floatingForm\floatingForm\bin\Debug\floatingForm.pdb
+E:\mywork\MyStudyC-\floatingForm\floatingForm\obj\x86\Debug\floatingForm.Form1.resources
+E:\mywork\MyStudyC-\floatingForm\floatingForm\obj\x86\Debug\floatingForm.Properties.Resources.resources
+E:\mywork\MyStudyC-\floatingForm\floatingForm\obj\x86\Debug\floatingForm.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\floatingForm\floatingForm\obj\x86\Debug\floatingForm.exe
+E:\mywork\MyStudyC-\floatingForm\floatingForm\obj\x86\Debug\floatingForm.pdb
