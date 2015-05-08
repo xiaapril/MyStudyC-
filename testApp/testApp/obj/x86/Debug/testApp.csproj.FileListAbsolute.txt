@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\testApp\testApp\bin\Debug\testApp.exe
+E:\mywork\MyStudyC-\testApp\testApp\bin\Debug\testApp.pdb
+E:\mywork\MyStudyC-\testApp\testApp\obj\x86\Debug\testApp.Form1.resources
+E:\mywork\MyStudyC-\testApp\testApp\obj\x86\Debug\testApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\testApp\testApp\obj\x86\Debug\testApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\testApp\testApp\obj\x86\Debug\testApp.exe
+E:\mywork\MyStudyC-\testApp\testApp\obj\x86\Debug\testApp.pdb
