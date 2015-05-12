@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\bin\Debug\useSplitterApp.exe
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\bin\Debug\useSplitterApp.pdb
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\obj\x86\Debug\useSplitterApp.Form1.resources
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\obj\x86\Debug\useSplitterApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\obj\x86\Debug\useSplitterApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\obj\x86\Debug\useSplitterApp.exe
+E:\mywork\MyStudyC-\useSplitterApp\useSplitterApp\obj\x86\Debug\useSplitterApp.pdb
