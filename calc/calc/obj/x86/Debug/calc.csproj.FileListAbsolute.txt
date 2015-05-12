@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\calc\calc\bin\Debug\calc.exe
+E:\mywork\MyStudyC-\calc\calc\bin\Debug\calc.pdb
+E:\mywork\MyStudyC-\calc\calc\obj\x86\Debug\calc.Properties.Resources.resources
+E:\mywork\MyStudyC-\calc\calc\obj\x86\Debug\calc.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\calc\calc\obj\x86\Debug\calc.exe
+E:\mywork\MyStudyC-\calc\calc\obj\x86\Debug\calc.pdb
+E:\mywork\MyStudyC-\calc\calc\obj\x86\Debug\calc.Calculator1.resources
