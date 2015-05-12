@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\bin\Debug\addCtrlAtRuntimeApp.exe
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\bin\Debug\addCtrlAtRuntimeApp.pdb
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\obj\x86\Debug\addCtrlAtRuntimeApp.Form1.resources
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\obj\x86\Debug\addCtrlAtRuntimeApp.Properties.Resources.resources
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\obj\x86\Debug\addCtrlAtRuntimeApp.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\obj\x86\Debug\addCtrlAtRuntimeApp.exe
+E:\mywork\MyStudyC-\addCtrlAtRuntimeApp\addCtrlAtRuntimeApp\obj\x86\Debug\addCtrlAtRuntimeApp.pdb
