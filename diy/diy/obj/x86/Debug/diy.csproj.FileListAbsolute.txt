@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\diy\diy\bin\Debug\diy.exe
+E:\mywork\MyStudyC-\diy\diy\bin\Debug\diy.pdb
+E:\mywork\MyStudyC-\diy\diy\obj\x86\Debug\diy.Form1.resources
+E:\mywork\MyStudyC-\diy\diy\obj\x86\Debug\diy.Properties.Resources.resources
+E:\mywork\MyStudyC-\diy\diy\obj\x86\Debug\diy.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\diy\diy\obj\x86\Debug\diy.exe
+E:\mywork\MyStudyC-\diy\diy\obj\x86\Debug\diy.pdb
