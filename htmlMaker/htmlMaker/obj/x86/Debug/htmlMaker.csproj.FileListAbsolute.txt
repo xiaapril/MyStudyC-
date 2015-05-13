@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\bin\Debug\htmlMaker.exe
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\bin\Debug\htmlMaker.pdb
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\obj\x86\Debug\htmlMaker.Form1.resources
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\obj\x86\Debug\htmlMaker.Properties.Resources.resources
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\obj\x86\Debug\htmlMaker.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\obj\x86\Debug\htmlMaker.exe
+E:\mywork\MyStudyC-\htmlMaker\htmlMaker\obj\x86\Debug\htmlMaker.pdb
