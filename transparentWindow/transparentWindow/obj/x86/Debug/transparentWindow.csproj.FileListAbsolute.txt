@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\bin\Debug\transparentWindow.exe
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\bin\Debug\transparentWindow.pdb
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\obj\x86\Debug\transparentWindow.Form1.resources
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\obj\x86\Debug\transparentWindow.Properties.Resources.resources
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\obj\x86\Debug\transparentWindow.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\obj\x86\Debug\transparentWindow.exe
+E:\mywork\MyStudyC-\transparentWindow\transparentWindow\obj\x86\Debug\transparentWindow.pdb
