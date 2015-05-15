@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\pintu\pintu\bin\Debug\pintu.exe
+E:\mywork\MyStudyC-\pintu\pintu\bin\Debug\pintu.pdb
+E:\mywork\MyStudyC-\pintu\pintu\obj\x86\Debug\pintu.Form1.resources
+E:\mywork\MyStudyC-\pintu\pintu\obj\x86\Debug\pintu.Properties.Resources.resources
+E:\mywork\MyStudyC-\pintu\pintu\obj\x86\Debug\pintu.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\pintu\pintu\obj\x86\Debug\pintu.exe
+E:\mywork\MyStudyC-\pintu\pintu\obj\x86\Debug\pintu.pdb

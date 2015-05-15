@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\clock\clock\obj\x86\Debug\clock.Form1.resources
+E:\mywork\MyStudyC-\clock\clock\obj\x86\Debug\clock.Properties.Resources.resources
+E:\mywork\MyStudyC-\clock\clock\obj\x86\Debug\clock.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\clock\clock\bin\Debug\clock.exe
+E:\mywork\MyStudyC-\clock\clock\bin\Debug\clock.pdb
+E:\mywork\MyStudyC-\clock\clock\obj\x86\Debug\clock.exe
+E:\mywork\MyStudyC-\clock\clock\obj\x86\Debug\clock.pdb
