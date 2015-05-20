@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\client\client\bin\Debug\client.exe
+E:\mywork\MyStudyC-\client\client\bin\Debug\client.pdb
+E:\mywork\MyStudyC-\client\client\obj\x86\Debug\client.exe
+E:\mywork\MyStudyC-\client\client\obj\x86\Debug\client.pdb
