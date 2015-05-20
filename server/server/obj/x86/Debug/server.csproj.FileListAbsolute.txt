@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\server\server\bin\Debug\server.exe
+E:\mywork\MyStudyC-\server\server\bin\Debug\server.pdb
+E:\mywork\MyStudyC-\server\server\obj\x86\Debug\server.exe
+E:\mywork\MyStudyC-\server\server\obj\x86\Debug\server.pdb
