@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\DateServer\DateServer\bin\Debug\DateServer.exe
+E:\mywork\MyStudyC-\DateServer\DateServer\bin\Debug\DateServer.pdb
+E:\mywork\MyStudyC-\DateServer\DateServer\obj\x86\Debug\DateServer.exe
+E:\mywork\MyStudyC-\DateServer\DateServer\obj\x86\Debug\DateServer.pdb
