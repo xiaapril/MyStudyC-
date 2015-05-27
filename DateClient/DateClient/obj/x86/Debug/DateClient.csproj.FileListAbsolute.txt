@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\DateClient\DateClient\bin\Debug\DateClient.exe
+E:\mywork\MyStudyC-\DateClient\DateClient\bin\Debug\DateClient.pdb
+E:\mywork\MyStudyC-\DateClient\DateClient\obj\x86\Debug\DateClient.exe
+E:\mywork\MyStudyC-\DateClient\DateClient\obj\x86\Debug\DateClient.pdb
