@@ -1,0 +1,7 @@
+E:\mywork\MyStudyC-\EchoClient\EchoClient\bin\Debug\EchoClient.exe
+E:\mywork\MyStudyC-\EchoClient\EchoClient\bin\Debug\EchoClient.pdb
+E:\mywork\MyStudyC-\EchoClient\EchoClient\obj\x86\Debug\EchoClient.Form1.resources
+E:\mywork\MyStudyC-\EchoClient\EchoClient\obj\x86\Debug\EchoClient.Properties.Resources.resources
+E:\mywork\MyStudyC-\EchoClient\EchoClient\obj\x86\Debug\EchoClient.csproj.GenerateResource.Cache
+E:\mywork\MyStudyC-\EchoClient\EchoClient\obj\x86\Debug\EchoClient.exe
+E:\mywork\MyStudyC-\EchoClient\EchoClient\obj\x86\Debug\EchoClient.pdb
