@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\EchoServer\EchoServer\bin\Debug\EchoServer.exe
+E:\mywork\MyStudyC-\EchoServer\EchoServer\bin\Debug\EchoServer.pdb
+E:\mywork\MyStudyC-\EchoServer\EchoServer\obj\x86\Debug\EchoServer.exe
+E:\mywork\MyStudyC-\EchoServer\EchoServer\obj\x86\Debug\EchoServer.pdb
