@@ -1,0 +1,4 @@
+E:\mywork\MyStudyC-\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+E:\mywork\MyStudyC-\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+E:\mywork\MyStudyC-\ChatServer\ChatServer\obj\x86\Debug\ChatServer.exe
+E:\mywork\MyStudyC-\ChatServer\ChatServer\obj\x86\Debug\ChatServer.pdb
